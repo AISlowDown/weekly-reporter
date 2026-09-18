@@ -1,5 +1,8 @@
 # Weekly Reporter · 周报克星
 
+[中文介绍页](https://aislowdown.github.io/weekly-reporter/) · [English landing page](https://aislowdown.github.io/weekly-reporter/en.html) · [English README](README.en.md)
+
+
 ## 样本预览
 
 以下为虚构演示，姓名、项目及工时均为示例数据。
