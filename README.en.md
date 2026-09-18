@@ -1,5 +1,7 @@
 # Weekly Reporter
 
+![Weekly Reporter illustrated cover (Chinese)](docs/images/weekly-reporter-cover.png)
+
 [English landing page](https://aislowdown.github.io/weekly-reporter/en.html) | [Chinese / ä¸­æ](README.md)
 
 A Codex skill that turns Computer History records or your own work notes into project-based academic weekly reports.
@@ -30,3 +32,9 @@ The names, projects, and durations below are fictional. The preview is in Chines
 ![Fictional weekly report](docs/images/weekly-reporter-demo.png)
 
 See the [chart guidelines](references/html-charts.md) and [skill instructions](SKILL.md).
+
+## Cover generation skill
+
+The separate [research-tool-cover skill](skills/research-tool-cover/SKILL.md) creates promotional covers with warm ivory backgrounds, navy headlines, and soft cartoon illustrations. Product text and mascots are configurable.
+
+[Download the cover skill](dist/research-tool-cover.zip). Invoke it with: `Use $research-tool-cover to create a promotional cover for this project.`
