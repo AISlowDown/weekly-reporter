@@ -42,8 +42,3 @@
 
 支持按小时绘制每日堆积柱，柱内显示项目占当天的比例，图例显示项目占全周的比例。各天沿用统一项目顺序，颜色固定，提供红—橙—黄—绿—蓝—紫配色预设。仅调整柱图颜色时保持周报其他区域不变。详见 [图表规范](references/html-charts.md)。
 
-## 封面生成技能
-
-附带独立的 [research-tool-cover 技能](skills/research-tool-cover/SKILL.md)，可复用奶油白底、深蓝标题和卡通插画风格，为其他科研工具生成封面。
-
-[下载封面生成技能](dist/research-tool-cover.zip)。调用：`用 $research-tool-cover 为当前项目生成宣传封面。`

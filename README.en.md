@@ -33,8 +33,3 @@ The names, projects, and durations below are fictional. The preview is in Chines
 
 See the [chart guidelines](references/html-charts.md) and [skill instructions](SKILL.md).
 
-## Cover generation skill
-
-The separate [research-tool-cover skill](skills/research-tool-cover/SKILL.md) creates promotional covers with warm ivory backgrounds, navy headlines, and soft cartoon illustrations. Product text and mascots are configurable.
-
-[Download the cover skill](dist/research-tool-cover.zip). Invoke it with: `Use $research-tool-cover to create a promotional cover for this project.`
