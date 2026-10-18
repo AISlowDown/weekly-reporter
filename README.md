@@ -29,7 +29,7 @@
 
 下载 [技能安装包](dist/computer-history-weekly-report-public.zip)，将解压后的 `computer-history-weekly-report/` 文件夹放入当前环境的技能目录，或按平台提供的技能安装流程操作。
 
-压缩包包含 `SKILL.md`、`agents/openai.yaml` 和图表规范 `references/html-charts.md`。不包含真实周报、历史活动、姓名、账号、本地路径、未公开稿件、截图或估算台账。
+压缩包包含 `SKILL.md`、`agents/openai.yaml`、Word 与 HTML 规范、逐日交叉核对规则、HTML 模板、虚构示例及生成脚本。不包含真实周报、历史活动、姓名、账号、本地路径、未公开稿件、截图或估算台账。
 
 ## 调用示例
 
@@ -73,3 +73,11 @@ Activity-window estimates are not exact working hours. Missing records do not me
 The public skill package contains reusable instructions, not personal computer-history records. Preview names, projects, and durations are fictional; the current preview images are in Chinese, while reports can be generated in your preferred language.
 
 [English project page](https://aislowdown.github.io/weekly-reporter/en.html) · [Full English README](README.en.md) · [Chart guidelines](references/html-charts.md)
+
+## 最新版式规则
+
+- 默认同时交付 HTML 和可编辑 Word，两套版式独立维护。
+- Word 使用“任务名称 ｜ 状态”；任务目的、已完成、正在进行、待完成为无圆点小标题，具体子内容使用圆点。
+- 关键变量逐项列出；强调使用加粗荔枝红色 `#C43C48`。
+- 保留完整图表，页数按内容调整；逐日交叉核对 Computer History 与可访问的 Codex 记录。
+- 详见 [Word 图表完整版规范](references/word-template-full.md)。公开包不包含个人参考报告。

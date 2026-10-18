@@ -35,3 +35,7 @@ The public skill package contains reusable instructions, not personal computer-h
 ## Sample report
 
 ![Fictional weekly report sample in Chinese](docs/images/weekly-reporter-demo.png)
+
+## Latest report format
+
+Deliver HTML and editable Word with independent layouts. Word uses unbulleted Purpose, Completed, In progress, and Next steps labels, with bullets for their contents. Separate task titles and status with `｜`; use bold lychee red `#C43C48` for emphasis. Preserve complete figures and tables and allow additional pages. Cross-check every report date against available Computer History and Codex records. The public package includes reusable format rules, not personal reference reports.
